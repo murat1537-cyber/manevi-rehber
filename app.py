@@ -40,7 +40,7 @@ st.set_page_config(
 # Uygulamanın üstüne, huzur veren bir görsel ekleyelim. 
 # "ManeviRehber_Banner.jpg" adında bir görseli GitHub deponuza yükleyip, yolunu buraya yazabilirsiniz. 
 # Eğer görsel yüklemek istemezseniz, bu satırı silebilirsiniz.
-st.image("ManeviRehber_Banner.jpg", use_column_width=True) # GitHub deponuzda bu görsel olmalı.
+# st.image("ManeviRehber_Banner.jpg", use_column_width=True) # GitHub deponuzda bu görsel olmalı.
 
 # C. Başlık ve Alt Başlık
 # Markdown kullanarak başlıkları daha şık yapabiliriz.
